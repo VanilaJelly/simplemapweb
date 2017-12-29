@@ -1,2 +1,1 @@
-# simplemapweb
-web displaying simple map
+# simpleweb
